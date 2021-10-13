@@ -1,5 +1,5 @@
 # Adding Legends to Blazor Charts
-A quick start Blazor project that shows how to add and customize a legend with its built-in options available in the Syncfusion Blazor Charts. It also includes the code snippet to position &amp; align the legend, change the legend icon, highlight the selected series in the chart, and to animate the chart series.
+A quick start Blazor project that shows how to add and customize a legend with its built-in options available in the Syncfusion Blazor Charts. It also includes the code snippet to position and align the legend, change the legend icon, highlight the selected series in the chart, and to animate the chart series.
 
 Example: https://blazor.syncfusion.com/demos/chart/column 
 
