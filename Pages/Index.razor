@@ -1,9 +1,9 @@
 ﻿@page "/"
 
 <SfChart Title="Olympic Medals" SelectionMode="SelectionMode.Point" EnableAnimation="true">
-     <ChartPrimaryXAxis ValueType="Syncfusion.Blazor.Charts.ValueType.Category" Title="Country">
-        </ChartPrimaryXAxis>
-        <ChartPrimaryYAxis Title="Medals Count"></ChartPrimaryYAxis>
+    <ChartPrimaryXAxis ValueType="Syncfusion.Blazor.Charts.ValueType.Category" Title="Country">
+    </ChartPrimaryXAxis>
+    <ChartPrimaryYAxis Title="Medals Count"></ChartPrimaryYAxis>
     <ChartSeriesCollection>
         <ChartSeries DataSource="@ChartData" XName="Country" YName="Gold" Type="ChartSeriesType.Column"
                      Name="Gold" LegendShape="LegendShape.Circle">
