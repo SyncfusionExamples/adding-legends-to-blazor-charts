@@ -18,20 +18,18 @@ This sample demonstrates how to add and customize legends in a Syncfusion [Blazo
 
 ## Prerequisites
 
-- Visual Studio 2022 or Visual Studio Code
+- Visual Studio 2026 or Visual Studio Code
 - .NET SDK compatible with the project's target framework
 
 ## How to Run the Project
 
-**Visual Studio 2022**
+**Visual Studio 2026**
 
 1. Clone or download this repository.
-2. Open the verified solution file `AddLegendChart.sln`.
+2. Open the project file `AddLegendChart.csproj`.
 3. Restore all NuGet packages.
-4. Ensure the `AddLegendChart` project is selected as the startup project if required.
-5. Build the solution.
-6. Run the application using `Ctrl+F5`.
-7. The application opens using the local URL.
+4. Build the project.
+5. Run the application using `Ctrl+F5`.
 
 **Visual Studio Code**
 
